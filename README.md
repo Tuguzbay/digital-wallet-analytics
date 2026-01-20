@@ -4,17 +4,17 @@ Simulating a Fintech Rewards Platform
  
 Project Overview
 
-    This project analyzes user transaction data from a digital wallet platform to understand spending behavior, cashback efficiency, and engagement patterns.
+  > _This project analyzes user transaction data from a digital wallet platform to understand spending behavior, cashback efficiency, and engagement patterns.
   
-  The analysis simulates how a fintech rewards platform like Super.com can use data to optimize cashback incentives, improve retention, and manage incentive costs.
+  > _The analysis simulates how a fintech rewards platform like Super.com can use data to optimize cashback incentives, improve retention, and manage incentive costs.
 
 Business Objectives
 
-  Understand how users spend across categories and time
+  > _Understand how users spend across categories and time
 
-  Evaluate the efficiency of cashback incentives
+  > _Evaluate the efficiency of cashback incentives
 
-  Identify high-value and incentive-sensitive user segments
+  > _Identify high-value and incentive-sensitive user segments
 
   Derive actionable insights for incentive optimization and retention
 
